@@ -1,5 +1,6 @@
-#Dictionary: UNordered, changeded, duplicate
+#Dictionary: {}, ordered, changeded, NOT duplicate
 
-dictionary1={a=1, b=2}
+dictionary1={"number":"1", "number":"2"}
 
 print(type(dictionary1))
+print(dictionary1)

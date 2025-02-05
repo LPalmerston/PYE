@@ -1,4 +1,4 @@
-#Sets: {}, ordered, NO changeded , NO duplicate
+#Sets: {}, NOT ordered, NOT changeable , NOT duplicate
 
 set1={1, 2, 3, 4, 5}
 

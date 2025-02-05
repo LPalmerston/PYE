@@ -1,4 +1,4 @@
-#Tuples: (), ordered, NO changeded, duplicate
+#Tuples: (), ordered, NOT changeable, duplicate
 
 tuple1=(1, 2, 3)
 print(type(tuple1))
