@@ -1,11 +1,11 @@
-
 #This file is about "Strings"
+
 a="Hello World"
 print(a)
 
 #Multiline string
 b="""Hi, I'm Agustin, 
-    and I'm studing for programming"""
+    and I'm studing programming"""
 print(b)
 
 #Strings are arrays
@@ -21,7 +21,7 @@ for x in "apple":
 txt = "The best things in life are free!"
 print("free" in txt)
 
-#Check strings with NOT
+#Check strings with NOT IN
 txt = "The open source is the future!"
 print("free" not in txt)
 
